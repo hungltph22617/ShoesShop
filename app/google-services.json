@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "472712741791",
+    "firebase_url": "https://foodorderpro-66ef3-default-rtdb.firebaseio.com",
+    "project_id": "foodorderpro-66ef3",
+    "storage_bucket": "foodorderpro-66ef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472712741791:android:da8934a22634a77d4473aa",
+        "android_client_info": {
+          "package_name": "com.pro.ShoesShop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472712741791-1u4clj3v2lektsmkgk9sos7aita7e6a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaCi45rQ68eug2xB3NyE6vFGQU-vyrdbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472712741791-1u4clj3v2lektsmkgk9sos7aita7e6a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
